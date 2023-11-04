@@ -1,0 +1,53 @@
+.custom-navbar {
+    font-size: 1.0rem;
+    padding: 0 2rem;
+    background-color: #fff !important;
+}
+
+.custom-navbar .navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #605DEC;
+
+}
+
+.custom-navbar .nav-link {
+    color: #7C8DB0;
+    margin-right: 1rem;
+}
+
+.custom-navbar .nav-link:hover {
+    color: #605DEC;
+}
+
+.custom-navbar .dropdown-menu {
+    background-color: #f8f9fa;
+}
+
+.custom-navbar .dropdown-item {
+    color: #333;
+}
+
+.custom-navbar .dropdown-item:hover {
+    color: #605DEC;
+    background-color: transparent;
+}
+
+.custom-navbar .form-control {
+    width: 200px;
+    margin-right: 1rem;
+}
+
+.custom-navbar .btn-outline-info {
+    color: #fff;
+    border-color: #fff;
+}
+
+.custom-navbar .btn-outline-info:hover {
+    color: #605DEC;
+    border-color: #605DEC;
+}
+
+.custom-navbar .fa-user {
+    margin-right: 0.5rem;
+}
