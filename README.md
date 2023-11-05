@@ -1,24 +1,15 @@
 # BE Smart Hack Repo Template
 
-## Description 🚨 
-This is a repository template containing all the information that needs to accompany your project.
-
-Feel free to use any languages or frameworks, but the following information must be filled out before hacking ends.
-___________
 # Project Name
-FlightFeast
+**FlightFeast**
 
 ## Challenge Statement(s) Addressed 🎯
-**...include the challenge statement(s) the project worked to address**
 
-
-Examples:
 * How might we minimize food wastage in the airline industry caused by overestimation, passenger rejection, and dissatisfaction with limited dietary options?
 * How might we cater to sudden changes in passengers' dietary requirements efficiently, considering instances where preferences change or are not specified at the time of booking?
 * How might we improve the overall passenger experience, especially in economy class, by allowing them to choose and customize their meals ahead of the flight, reducing uncertainty and enhancing satisfaction?
 
 ## Project Description 🤯
-**....at least 3 sentences describing what the project does and how it works**
 
 A website post-booking that works with any airline website (e.g., Tripme) where passengers pick their meals, earning airline points. This not only cuts wastage by tailoring catering needs but also lets users craft their ideal culinary journey on long/International flights. 
 
@@ -40,7 +31,6 @@ The Information Architecture -
 
 
 ## Project Value 💰
-**....at least 3 sentences describing your target customer and tangible benefits from your solution**
 
 Our target audience includes international travelers and first-class flyers with in-flight meals. 
 The benefits Impact the Customer, the employees, and the airline involved. 
@@ -69,9 +59,7 @@ For Employees (e.g. Flight Attendants)
   
 
 ## Tech Overview 💻
-**... what tech was used to bring this project to life?**
 
-Example:
 * React
 * Node.js (Express)
 * Javascript
@@ -80,7 +68,6 @@ Example:
 
 
 ### ✨ Contributors ✨
-**...tell the world who you and your team are 🙂**
 * Kenna Agbugba (C6TD086)
 * Pearl Wogu (M3ND084)
 * Sarah Ezeogu (F98JM98)
