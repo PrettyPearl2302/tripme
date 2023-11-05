@@ -1,18 +1,21 @@
-import React from 'react'
-import './App.css'
-import Navbar from './Navbar.jsx'
+import React from 'react';
+import './App.css';
+import Navbar from './Navbar.jsx';
 import Confirmation from './Confirmation/Confirmation';
+import PopUp from './PopUp/PopUp.jsx';
 
 function App() {
   return (
-    <><div>
-      <Navbar />
-    </div><div>
+    <>
+      <div className="navbar-container">
+        <Navbar />
+      </div>
+      <div className="content-container">
         <Confirmation />
-      </div></>
-
-
+      </div>
+      <PopUp />
+    </>
   );
 }
 
-export default App
+export default App;
