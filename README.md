@@ -100,20 +100,20 @@ Code Panthers
 (https://www.canva.com/design/DAFzOQjQyfo/7sGN2r5EuPCusqbXpCSG0g/edit?utm_content=DAFzOQjQyfo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ### Team Checklist due before 5p Saturday 11/4 ✅
-- [ ] Team photo
-- [ ] Team Slack channel
-- [ ] Communication established with mentor
-- [ ] Repo creation from this template
-- [ ] Hangar registration
-- [ ] Scavenger Hunt submission
+- [ x ] Team photo
+- [ x ] Team Slack channel
+- [ x ] Communication established with mentor
+- [ x ] Repo creation from this template
+- [ x ] Hangar registration
+- [ x ] Scavenger Hunt submission
 
 ### Project Checklist due before 10am Sunday 11/5 🏁
-- [ ] Presentation complete and linked
-- [ ] Video pitch recorded and linked
-- [ ] Code merged to main branch
+- [ x ] Presentation complete and linked
+- [  ] Video pitch recorded and linked
+- [ x ] Code merged to main branch
 
 ### Sample Checklist for Syntax Example 
-- [ ] Presentation complete and linked
-- [ ] Video pitch recorded and linked
-- [ ] Code merged to main branch
+- [  ] Presentation complete and linked
+- [  ] Video pitch recorded and linked
+- [  ] Code merged to main branch
 
