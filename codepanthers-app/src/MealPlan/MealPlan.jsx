@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import './MealPlan.css';
 import DietaryPopup from '../DietaryPopup/DietaryPopup';
+import { useNavigate } from 'react-router-dom';
 
 function MealPlan() {
     const [mainMealSelection, setMainMealSelection] = useState({
@@ -66,6 +67,14 @@ function MealPlan() {
     const handleHideDietaryPopup = () => {
         setShowDietaryPopup(false);
     };
+
+    const navigate = useNavigate();
+
+    const handleClick = () => {
+        navigate('/review');
+    };
+
+
 
     return (
         <>
@@ -279,7 +288,7 @@ function MealPlan() {
                     </div>
                 </div>
 
-                <button className="continue-button">Continue</button>
+                <button className="continue-button" onClick={handleClick}>Continue</button>
             </div>
 
         </>
