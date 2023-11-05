@@ -1,0 +1,57 @@
+.ReactModal__Content {
+    background: #fff;
+    border-radius: 4px;
+    width: 50%;
+    height: 50%;
+    margin-top: 10%;
+    margin-left: 20%;
+    margin-bottom: 40%;
+    backdrop-filter: blur(5px);
+    z-index: 9999;
+}
+
+.popup-header {
+    text-align: center;
+    color: #605DEC;
+    font-size: 20px;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 600;
+    word-wrap: break-word;
+    margin-top: 30px;
+}
+
+.popup-text {
+    color: #929292;
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 400;
+    margin-top: 10px;
+    word-wrap: break-word;
+}
+
+.popup-button {
+    width: 200px;
+    height: 40px;
+    background: #605DEC;
+    border-radius: 10px;
+    margin-top: 20px;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    left: 35%;
+}
+
+.image {
+    width: 30%;
+    height: 30%;
+}
+
+.popup-btn-text {
+    color: #FFFEFE;
+    font-size: 16px;
+    text-align: center;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 500;
+    word-wrap: break-word;
+}
