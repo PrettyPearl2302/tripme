@@ -35,9 +35,9 @@ const [selectedDessert, setSelectedDessert] = useState(null);
     console.log("Changing selection:", meal);
 
     const selectionActions = {
-      main: setMainMealSelection,
-      appetizer: setAppetizerSelection,
-      dessert: setDessertSelection,
+        main: setSelectedMainMeal,
+        appetizer: setSelectedAppetizer,
+        dessert: setSelectedDessert,
     };
 
     const currentSelections = {
