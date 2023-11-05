@@ -1,0 +1,236 @@
+.help-tripme {
+    color: black;
+    font-size: 65px;
+    font-family: Montserrat, sans-serif;
+    font-weight: 700;
+    word-wrap: break-word;
+    margin-top: 70px;
+    margin-left: 70px;
+}
+
+.reduce {
+    color: #605DEC;
+    font-size: 65px;
+    font-family: Montserrat, sans-serif;
+    font-weight: 700;
+    word-wrap: break-word;
+    margin-top: -20px;
+    margin-left: 70px;
+}
+
+.food {
+    color: black;
+    font-size: 65px;
+    font-family: Montserrat, sans-serif;
+    font-weight: 700;
+    word-wrap: break-word;
+    margin-top: -20px;
+    margin-left: 70px;
+}
+
+.details {
+    color: black;
+    font-size: 14px;
+    font-family: Montserrat, sans-serif;
+    font-weight: 200;
+    word-wrap: break-word;
+    margin-top: 30px;
+    margin-left: 70px;
+    padding-right: 60%;
+}
+
+.placeholder-image {
+    width: 35%;
+    height: auto;
+    border-radius: 35%;
+    left: 50%;
+    margin-top: -25%;
+    position: absolute;
+}
+
+.flight-title {
+    width: 100%;
+    height: 100%;
+    color: #605DEC;
+    font-size: 28px;
+    font-family: Nunito Sans, sans-serif;
+    font-weight: 500;
+    margin-top: 100px;
+    word-wrap: break-word;
+    margin-left: 70px;
+}
+
+.meal-title {
+    width: 100%;
+    height: 100%;
+    color: #929292;
+    font-size: 22px;
+    margin-top: 20px;
+    font-family: Nunito Sans, sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+    margin-left: 70px;
+}
+
+.choice {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: Nunito Sans, sans-serif;
+    margin-bottom: 50px;
+}
+
+.container {
+    display: flex;
+    margin-top: 20px;
+    gap: 25%;
+}
+
+
+.card {
+    width: 300px;
+    background: white;
+    box-shadow: 0px 2px 30px rgba(0, 0, 0, 0.10);
+    border-radius: 35px;
+    padding: 20px;
+    margin-left: 20%;
+    margin-bottom: 20px;
+    height: 80%;
+}
+
+.card-image {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    object-position: left;
+    border-radius: 10px;
+}
+
+.card-content {
+    margin-top: 20px;
+}
+
+.card-content1 {
+    display: flex;
+    align-items: baseline;
+}
+
+.card-title {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.card-details {
+    margin-top: 10px;
+    font-size: 16px;
+    color: gray;
+}
+
+.checkbox {
+    margin-right: 10%;
+    width: 20px;
+    height: 20px;
+}
+
+.noOption {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 40%;
+    margin-left: -30%;
+}
+
+.checkbox-label {
+    display: flex;
+    align-items: center;
+    width: 20px;
+    height: 20px;
+}
+
+.checkbox-label input[type="checkbox"] {
+    margin-right: 5px;
+}
+
+span {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.popup {
+    position: fixed;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1000;
+    background-color: #ffffff;
+    padding: 20px 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-size: 16px;
+    color: #333333;
+    text-align: center;
+    max-width: 300px;
+    border: 1px solid #dddddd;
+    animation: fadeIn 0.3s;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+.popup-message {
+    margin: 0;
+    font-weight: bold;
+}
+
+.popup::before {
+    content: "";
+    position: absolute;
+    bottom: -10px;
+    left: 50%;
+    transform: translateX(-50%);
+    border-width: 10px;
+    border-style: solid;
+    border-color: #ffffff transparent transparent transparent;
+}
+
+.continue-button {
+    width: 200px;
+    height: 50px;
+    background: #605DEC;
+    border-radius: 10px;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    margin-left: 40%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.dietary-options {
+    width: 100%;
+    height: 100%;
+    color: #605DEC;
+    font-size: 13px;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 300;
+    word-wrap: break-word;
+    text-decoration: underline;
+    margin-left: 80px;
+    cursor: pointer;
+}
+
+.blur {
+    filter: blur(2px);
+}

@@ -1,0 +1,129 @@
+.dietary-popup {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 10;
+}
+
+.dietary-popup-content {
+    background-color: #fff;
+    padding: 20px;
+    width: 310px;
+    height: 80%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    z-index: 11;
+    overflow-y: auto;
+
+}
+
+.dietary {
+    color: #605DEC;
+    font-size: 20px;
+    font-family: Nunito Sans, 'sans-seri';
+    font-weight: '500';
+    word-wrap: 'break-word';
+    margin-bottom: 20px;
+}
+
+.navbar {
+    z-index: 12;
+
+}
+
+.checkbox-container {
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 15px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+}
+
+.styled-checkbox {
+    margin-top: 4px;
+    cursor: pointer;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    width: 20px;
+    height: 20px;
+    border: 2px solid #605DEC;
+    border-radius: 3px;
+    position: relative;
+    background: white;
+}
+
+.styled-checkbox:checked {
+    background-color: #605DEC;
+}
+
+.styled-checkbox:checked::after {
+    content: '';
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%) scale(1.2);
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    background: white;
+}
+
+
+.done-button {
+    align-self: flex-end;
+    padding: 10px 20px;
+    margin: 20px;
+    color: white;
+    background-color: #605DEC;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-bottom: 5px;
+}
+
+.dietary-options {
+    display: flex;
+    flex-direction: column;
+    gap: 35px;
+
+}
+
+.checkbox-label {
+    display: block;
+    flex-grow: 1;
+    margin-left: -60%;
+
+}
+
+.option-name {
+    font-weight: 700;
+    color: gray;
+    font-size: 12px;
+    display: block;
+    margin-bottom: 5px;
+    text-decoration: none !important;
+
+}
+
+.option-details {
+    font-size: 12px;
+    color: gray;
+    font-weight: 400;
+    max-width: 100%;
+    display: block;
+    margin-bottom: 10px;
+    overflow-wrap: break-word;
+    padding-right: 30px;
+    text-decoration: none !important;
+}
