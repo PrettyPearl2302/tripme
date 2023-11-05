@@ -11,10 +11,9 @@ const userData = JSON.parse(fs.readFileSync(path.resolve(__dirname, './seed/user
 
 const seedDatabase = async () => {
   try {
-    // Sync all models that aren't already in the database
+    
     await sequelize.sync({ alter: true });
 
-    // Then seed the User and Post data
     await User.bulkCreate(userData);
     console.log('User data has been seeded!');
 
