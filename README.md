@@ -81,7 +81,8 @@ Philander Smith University
 Code Panthers
 
 ### Link to Video Pitch 📹
-**...point us to where you tell us about your solution 😄**
+
+https://www.canva.com/design/DAFzOQjQyfo/xdyAhI63fL0sjW6vznncLw/view?utm_content=DAFzOQjQyfo&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel
 
 ### Link to Demo Presentation 📽
 (https://www.canva.com/design/DAFzOQjQyfo/7sGN2r5EuPCusqbXpCSG0g/edit?utm_content=DAFzOQjQyfo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
