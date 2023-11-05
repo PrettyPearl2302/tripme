@@ -18,9 +18,9 @@ Examples:
 * How might we improve the overall passenger experience, especially in economy class, by allowing them to choose and customize their meals ahead of the flight, reducing uncertainty and enhancing satisfaction?
 
 ## Project Description 🤯
-**....at lease 3 sentences describing what the project does and how it works**
+**....at least 3 sentences describing what the project does and how it works**
 
-A website post-booking that works with any airline website (e.g Tripme) where passengers pick their meals, earning airline points. This not only cuts wastage by tailoring catering needs but also lets users craft their ideal culinary journey on long/International flights. 
+A website post-booking that works with any airline website (e.g., Tripme) where passengers pick their meals, earning airline points. This not only cuts wastage by tailoring catering needs but also lets users craft their ideal culinary journey on long/International flights. 
 
 The Information Architecture - 
 1. Post-Booking Notification:
@@ -30,20 +30,20 @@ The Information Architecture -
    - Clicking the button leads users to a dedicated page featuring a menu of in-flight meal options.
   
 3. Customization and Preferences:
-   - Users can select their preferred meals, opt-out if not interested, and include dietary preferences to enhance health safety and minimize wastage.
+   - Users can select their preferred meals, opt out if not interested, and include dietary preferences to enhance health safety and minimize wastage.
 
 4. Integration with Trip Information:
    - The chosen meal plan seamlessly integrates with the users' trip details.
 
 5. Editable Until 24 Hours Before Flight:
-   - Users have the flexibility to edit their meal choices and preferences until 24 hours before the scheduled flight.
+   - Users can edit their meal choices and preferences until 24 hours before the scheduled flight.
 
 
 ## Project Value 💰
 **....at least 3 sentences describing your target customer and tangible benefits from your solution**
 
 Our target audience includes international travelers and first-class flyers with in-flight meals. 
-The benefits Impact the Customer, the employees and the airline involved. 
+The benefits Impact the Customer, the employees, and the airline involved. 
 
 For Airlines 
 
@@ -63,7 +63,7 @@ For Airlines
 - Hygiene and Safety
   
 
-For Employees (e.g Flight Attendants)
+For Employees (e.g. Flight Attendants)
 
 - Makes their distribution process more organized and sorted
   
@@ -73,7 +73,7 @@ For Employees (e.g Flight Attendants)
 
 Example:
 * React
-* Node.js (express)
+* Node.js (Express)
 * Javascript
 * Bootstrap
 * Figma
