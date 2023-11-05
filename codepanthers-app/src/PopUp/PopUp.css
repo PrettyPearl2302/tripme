@@ -17,7 +17,7 @@
     font-family: 'Nunito Sans', sans-serif;
     font-weight: 600;
     word-wrap: break-word;
-    margin-top: 30px;
+    margin-top: 5%;
 }
 
 .popup-text {
@@ -45,6 +45,7 @@
 .image {
     width: 30%;
     height: 30%;
+    margin-right: -5%;
 }
 
 .popup-btn-text {

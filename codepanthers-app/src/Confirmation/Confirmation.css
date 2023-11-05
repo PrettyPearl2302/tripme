@@ -269,3 +269,8 @@ body {
     font-weight: 300;
     word-wrap: break-word;
 }
+
+.blur-background {
+    filter: blur(5px);
+    pointer-events: none;
+}

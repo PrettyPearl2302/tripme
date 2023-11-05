@@ -7,9 +7,10 @@ export default function PopUp() {
     const [isPopupOpen, setIsPopupOpen] = useState(true);
     const navigate = useNavigate();
 
-    function handleClick() {
+    const handleClick = () => {
+        setIsPopupOpen(false);
         navigate('/menu');
-    }
+    };
 
     const closeModal = () => {
         setIsPopupOpen(false);
