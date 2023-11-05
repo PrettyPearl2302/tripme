@@ -87,7 +87,6 @@ https://www.canva.com/design/DAFzOQjQyfo/xdyAhI63fL0sjW6vznncLw/view?utm_content
 ### Link to Demo Presentation 📽
 (https://www.canva.com/design/DAFzOQjQyfo/7sGN2r5EuPCusqbXpCSG0g/edit?utm_content=DAFzOQjQyfo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-### App Demo Video
 
 
 ### Team Checklist due before 5p Saturday 11/4 ✅
