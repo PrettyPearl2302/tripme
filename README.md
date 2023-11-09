@@ -68,10 +68,7 @@ For Employees (e.g. Flight Attendants)
 
 
 ### ✨ Contributors ✨
-* Kenna Agbugba (C6TD086)
 * Pearl Wogu (M3ND084)
-* Sarah Ezeogu (F98JM98)
-* Odera Uwolloh (N3YD082)
 * Immanuella Umoren (C0AP744)
 
 ### School Name 🏫
